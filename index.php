@@ -53,8 +53,8 @@ include ('./components/header.php');
                             <span class="flaticon-shipped"></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Domestic Courier</a></h5>
-                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
+                            <h5><a href="#">E-commerce</a></h5>
+                            <p>Are you a product seller that markets your products online - WhatsApp, Facebook, Instagram, Google, or even your own site? We offer highly competitive prices for delivery across Nigeria.</p>
                         </div>
                     </div>
                 </div>
@@ -64,8 +64,8 @@ include ('./components/header.php');
                             <span class="flaticon-ship"></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">e-Commerce Courier</a></h5>
-                            <p>The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.</p>
+                            <h5><a href="#">Individual</a></h5>
+                            <p>Looking for ways to send gifts and couriers to your loved ones within and outside your state of location? We open our numerous outlets everyday because of you.</p>
                         </div>
                     </div>
                 </div>
@@ -75,8 +75,8 @@ include ('./components/header.php');
                             <span class="flaticon-shipped"></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Inter-state Courier</a></h5>
-                            <p>We reckon how important it is for you to reach all your national destinations via a single service provider with capacity to respond flexibly.</p>
+                            <h5><a href="#">Quick Errand</a></h5>
+                            <p>Need to order products from the nearest mall close to your estate? Use our WhatsApp QES service, we will have it delivered to you in no time.</p>
                         </div>
                     </div>
                 </div>
@@ -84,39 +84,8 @@ include ('./components/header.php');
         </div>
     </div>
     <!-- Categories Area End -->
-    <!--? About Area Start -->
-    <div class="about-low-area padding-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-12">
-                    <div class="about-caption mb-50">
-                        <!-- Section Tittle -->
-                        <div class="section-tittle mb-35">
-                            <span>About Our Company</span>
-                            <h2>Safe Logistic & Transport  Solutions That Saves our Valuable Time!</h2>
-                        </div>
-                        <p>Brook presents your services with flexible, convenient and cdpose layouts. You can select your favorite layouts & elements for cular ts with unlimited ustomization possibilities. Pixel-perfect replication of the designers is intended.</p>
-                        <p>Brook presents your services with flexible, convefnient and chient anipurpose layouts. You can select your favorite layouts.</p>
-                        <a href="about.html" class="btn">More About Us</a>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-12">
-                    <!-- about-img -->
-                    <div class="about-img ">
-                        <div class="about-font-img">
-                            <img src="assets/img/gallery/about2.png" alt="">
-                        </div>
-                        <div class="about-back-img d-none d-lg-block">
-                            <img src="assets/img/gallery/about1.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- About Area End -->
     <!--? contact-form start -->
-    <section class="contact-form-area section-bg  pt-115 pb-120 fix" data-background="assets/img/gallery/section_bg02.jpg">
+    <section class="contact-form-area section-bg pt-115 pb-120 fix" id="quote" data-background="assets/img/gallery/section_bg02.jpg">
         <div class="container">
             <div class="row justify-content-end">
                 <!-- Contact wrapper -->

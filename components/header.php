@@ -45,7 +45,7 @@
                         <div class="row d-flex justify-content-between align-items-center">
                             <div class="header-info-left">
                                 <ul>
-                                    <li>Phone: +99 (0) 101 0000 888</li>
+                                    <li>Phone: +234 (0) 806 392 2418</li>
                                     <li>Email: hello@agofurelogistics.com</li>
                                 </ul>
                             </div>
@@ -77,16 +77,16 @@
                                     <nav>
                                         <ul id="navigation">
                                             <li><a href="\">Home</a></li>
-                                            <li><a href="about">About</a></li>
-                                            <li><a href="services">Services</a></li>
-                                            <li><a href="blog">Blog</a></li>
-                                            <li><a href="contact">Contact</a></li>
+                                            <li><a href="#!">About</a></li>
+                                            <li><a href="#!">Services</a></li>
+                                            <li><a href="#!">Blog</a></li>
+                                            <li><a href="#!">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
                                 <!-- Header-btn -->
                                 <div class="header-right-btn d-none d-lg-block ml-20">
-                                    <a href="contact.html" class="btn header-btn">Get A Quote</a>
+                                    <a href="#quote" class="btn header-btn">Get A Quote</a>
                                 </div>
                             </div>
                         </div>

@@ -78,7 +78,7 @@
                                             <nav> 
                                                 <ul id="navigation">                                                                                          
                                                     <li><a href="index.php">Home</a></li>
-                                                    <li><a href="about.html">About</a></li>
+                                                    <li><a href="about.php">About</a></li>
                                                     <li><a href="services.html">Services</a></li>
                                                     <li><a href="blog.html">Blog</a>
                                                         <ul class="submenu">

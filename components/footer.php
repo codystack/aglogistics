@@ -23,7 +23,7 @@
                     <div class="col-lg-12">
                         <div class="footer-copy-right text-center">
                             <p>
-                                &copy; <script>document.write(new Date().getFullYear());</script> <span style="color: white">Agofure Parcel Services.</span> All Rights Reserved.
+                                &copy; <script>document.write(new Date().getFullYear());</script> Agofure Parcel Services. All Rights Reserved.
                             </p>
                         </div>
                     </div>

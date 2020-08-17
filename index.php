@@ -64,7 +64,7 @@ include ('./components/header.php');
                             <span class="flaticon-ship"></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="#">Individual</a></h5>
+                            <h5><a href="#">Individuals</a></h5>
                             <p>Looking for ways to send gifts and couriers to your loved ones within and outside your state of location? We open our numerous outlets everyday because of you.</p>
                         </div>
                     </div>
@@ -75,7 +75,7 @@ include ('./components/header.php');
                             <span class="flaticon-shipped"></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="#">Quick Errand</a></h5>
+                            <h5><a href="#">Quick Erranding</a></h5>
                             <p>Need to order products from the nearest mall close to your estate? Use our WhatsApp QES service, we will have it delivered to you in no time.</p>
                         </div>
                     </div>
@@ -123,11 +123,9 @@ include ('./components/header.php');
                                 <div class="col-lg-6">
                                     <div class="select-items">
                                         <select name="select" id="select1">
-                                            <option value="">Freight Type</option>
-                                            <option value="">Catagories One</option>
-                                            <option value="">Catagories Two</option>
-                                            <option value="">Catagories Three</option>
-                                            <option value="">Catagories Four</option>
+                                            <option value="">E-Commerce</option>
+                                            <option value="">Individuals</option>
+                                            <option value="">Quick Erranding</option>
                                         </select>
                                     </div>
                                 </div>
@@ -169,19 +167,15 @@ include ('./components/header.php');
                                         <div class="select-radio">
                                             <div class="radio">
                                                 <input id="radio-1" name="radio" type="radio" checked="">
-                                                <label for="radio-1" class="radio-label">Freight</label>
+                                                <label for="radio-1" class="radio-label">E-Commerce</label>
                                             </div>
                                             <div class="radio">
                                                 <input id="radio-2" name="radio" type="radio">
-                                                <label for="radio-2" class="radio-label">Express Delivery</label>
+                                                <label for="radio-2" class="radio-label">Individuals</label>
                                             </div>
                                             <div class="radio">
                                                 <input id="radio-4" name="radio" type="radio">
-                                                <label for="radio-4" class="radio-label">Insurance</label>
-                                            </div>
-                                            <div class="radio">
-                                                <input id="radio-5" name="radio" type="radio">
-                                                <label for="radio-5" class="radio-label">Packaging</label>
+                                                <label for="radio-4" class="radio-label">Quick Erranding</label>
                                             </div>
                                         </div>
                                     </div> 

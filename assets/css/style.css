@@ -2062,8 +2062,9 @@ hero-btn {
     }
 }
 .header-area .header-top {
-    border-bottom: 1px solid #2d2d2d;
+    border-bottom: 1px solid #fff;
     padding: 9px 0px;
+    background-color: #045372;
 }
 .header-area .header-top .header-info-left ul li {
     color: #ffffff;

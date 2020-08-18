@@ -12,7 +12,7 @@
                             </div>
                         </div>
                         <div class="col-xl-3 col-lg-4">
-                            <span class="contact-number f-right">0806 392 2418</span>
+                            <span class="contact-number f-right" style="color: white">0806 392 2418</span>
                         </div>
                     </div>
                 </div>

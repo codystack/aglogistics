@@ -9,11 +9,11 @@ include ('./components/header.php');
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap">
-                                <h2>About us</h2>
+                                <h2>Our Services</h2>
                                 <nav aria-label="breadcrumb">
                                     <ol class="breadcrumb">
                                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                                        <li class="breadcrumb-item"><a href="#">About</a></li> 
+                                        <li class="breadcrumb-item"><a href="#">Our Services</a></li> 
                                     </ol>
                                 </nav>
                             </div>
@@ -23,6 +23,6 @@ include ('./components/header.php');
             </div>
         </div>
         <!-- slider Area End-->
-<?php include ('./components/abt.php'); ?>
-<?php include ('./components/quote.php'); ?>
+        <?php include ('./components/serv.php'); ?>
+    </main>
 <?php include ('./components/footer.php'); ?>
